@@ -1,0 +1,3 @@
+hostname NUT
+mount -a
+export PS1='\w\$'

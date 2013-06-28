@@ -1,0 +1,4 @@
+none            /proc           proc    defaults        0 0
+none            /var            tmpfs   defaults        0 0
+#/dev/sda1	/update		ext2	defaults	0 0
+#/dev/sda2	/home/admin	ext2	defaults	0 0

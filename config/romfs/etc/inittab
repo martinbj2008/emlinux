@@ -1,0 +1,6 @@
+#：id：runlevels：action：process id
+::sysinit:/bin/sh /etc/rc
+::shutdown:/bin/sh /etc/rc.shutdown
+#::respawn:/sbin/getty -L 115200 ttyS0 vt102
+::respawn:/sbin/getty -L 9600 ttyS0 vt102
+
